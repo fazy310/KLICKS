@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/KLICKS/static/css/main.e6c13ad2.css",
+    "main.js": "/KLICKS/static/js/main.4e5319c5.js",
+    "static/js/488.f557ae73.chunk.js": "/KLICKS/static/js/488.f557ae73.chunk.js",
+    "static/media/react.png": "/KLICKS/static/media/react.f2bac7a4cf2cf0e5e06b.png",
+    "static/media/project6.jpeg": "/KLICKS/static/media/project6.bf5f458c1b01b8655354.jpeg",
+    "static/media/project1.jpeg": "/KLICKS/static/media/project1.c74c474bb0e637f4cf75.jpeg",
+    "static/media/project5.jpeg": "/KLICKS/static/media/project5.8a400a41de473f88820b.jpeg",
+    "static/media/project4.jpeg": "/KLICKS/static/media/project4.b08d8e4f610161123cff.jpeg",
+    "static/media/project2.jpeg": "/KLICKS/static/media/project2.351dc639a87aa8ade6a5.jpeg",
+    "static/media/sql.png": "/KLICKS/static/media/sql.85fb38d6773862e917f4.png",
+    "static/media/power-bi.png": "/KLICKS/static/media/power-bi.8c9e5e869de5f651d593.png",
+    "static/media/nodejs.png": "/KLICKS/static/media/nodejs.d980d9636ace07ad3dde.png",
+    "static/media/project3.jpeg": "/KLICKS/static/media/project3.784b464bc3474c42e108.jpeg",
+    "static/media/javascript.png": "/KLICKS/static/media/javascript.649a896f8c09e1c99df5.png",
+    "static/media/appsheet.png": "/KLICKS/static/media/appsheet.8a0135e29fafd5d707f2.png",
+    "static/media/flutter.png": "/KLICKS/static/media/flutter.24b39671d8f67d244135.png",
+    "static/media/php.png": "/KLICKS/static/media/php.4990580e9b615aeebb1f.png",
+    "static/media/powerautomate.png": "/KLICKS/static/media/powerautomate.25d01eee84cf0e0aa505.png",
+    "static/media/logo.png": "/KLICKS/static/media/logo.fbaf2c8218a0de3ad112.png",
+    "static/media/chatbot.png": "/KLICKS/static/media/chatbot.781ac377e482bf77a065.png",
+    "static/media/bubble.png": "/KLICKS/static/media/bubble.5a58a57611e9400b0791.png",
+    "static/media/python.png": "/KLICKS/static/media/python.eb27b3a10d36bee4821a.png",
+    "static/media/htmlcss.png": "/KLICKS/static/media/htmlcss.286f4abd162104229e35.png",
+    "static/media/excel.png": "/KLICKS/static/media/excel.dcb46756f224aae065ef.png",
+    "static/media/forecastingmodel.png": "/KLICKS/static/media/forecastingmodel.64cf7d414a22e96a236f.png",
+    "index.html": "/KLICKS/index.html",
+    "main.e6c13ad2.css.map": "/KLICKS/static/css/main.e6c13ad2.css.map",
+    "main.4e5319c5.js.map": "/KLICKS/static/js/main.4e5319c5.js.map",
+    "488.f557ae73.chunk.js.map": "/KLICKS/static/js/488.f557ae73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4e5319c5.js"
+  ]
+}
